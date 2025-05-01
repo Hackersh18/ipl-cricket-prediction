@@ -1,0 +1,22 @@
+# requirements.txt
+
+# FastAPI & Uvicorn
+fastapi
+uvicorn
+
+# Django & Django REST Framework
+Django
+djangorestframework
+
+# ML Libraries
+scikit-learn
+joblib
+pandas
+numpy
+
+# For Web Scraping
+beautifulsoup4
+selenium
+
+# Optional: LLM integration (Ollama or similar)
+openai # if using OpenAI-compatible models
